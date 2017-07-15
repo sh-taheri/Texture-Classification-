@@ -1,7 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Concordia University %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Machine Learning , Assignment 3 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% Shaghayegh Taheri Hosseinabadi , 6934501 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% © Shaghayegh Taheri 2014 All rights reserved. %%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%% The parameter k , is used for the k-fold cross-validation 
